@@ -7,3 +7,6 @@ How to use this course -
   3. We will invest considerable time in learning Java Script through some small assignments (games/mini-projects).
   4. Students should create separate repositories where they will keep pushing solutions of assignments.
   5. In later phase of this course, multiple students (a team of 4 to 6 students) should collaborate on the projects.
+
+//Comment
+
